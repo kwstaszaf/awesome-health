@@ -172,6 +172,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+  * [NutriGraphAPI](https://nutrigraphapi.com/) - Food intelligence API providing nutrition, allergen, and label verification across 6M+ products.
   * [OpenSAFELY](https://opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
